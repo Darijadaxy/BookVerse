@@ -1,0 +1,461 @@
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\appsettings.json
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Knjige.exe
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Knjige.deps.json
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Knjige.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Knjige.pdb
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anastasija\Desktop\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.dll
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.pdb
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+C:\Users\Anastasija\Desktop\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Knjige.exe
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Knjige.deps.json
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Knjige.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Knjige.pdb
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.dll
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.pdb
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\appsettings.json
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Knjige.exe
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Knjige.deps.json
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Knjige.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Knjige.pdb
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.pdb
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+C:\Users\darij\Downloads\Knjige (1)\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Knjige.exe
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Knjige.deps.json
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Knjige.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Knjige.pdb
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.pdb
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Admin\Desktop\Neo4j Knjige\Knjige\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\appsettings.Development.json
+D:\Knjige\Knjige\bin\Debug\net8.0\appsettings.json
+D:\Knjige\Knjige\bin\Debug\net8.0\Knjige.exe
+D:\Knjige\Knjige\bin\Debug\net8.0\Knjige.deps.json
+D:\Knjige\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+D:\Knjige\Knjige\bin\Debug\net8.0\Knjige.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Knjige.pdb
+D:\Knjige\Knjige\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Scrutor.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Knjige\Knjige\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+D:\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+D:\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+D:\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+D:\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+D:\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+D:\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Knjige\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.dll
+D:\Knjige\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.pdb
+D:\Knjige\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+D:\Knjige\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\appsettings.Development.json
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\appsettings.json
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.exe
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.deps.json
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.pdb
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Scrutor.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.pdb
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+E:\Faks\4.god\napredne baze\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\appsettings.Development.json
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\appsettings.json
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.exe
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.deps.json
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Knjige.pdb
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Scrutor.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.pdb
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+D:\Knjige 2\Knjige 2\Knjige\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Knjige.exe
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Knjige.deps.json
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Knjige.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Knjige.pdb
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.pdb
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Back knjige final1\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\appsettings.Development.json
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\appsettings.json
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Knjige.exe
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Knjige.deps.json
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Knjige.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Knjige.pdb
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Scrutor.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.pdb
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+E:\Faks\4.god\napredne baze\KNJIGE\Knjige (3)\Knjige\obj\Debug\net8.0\ref\Knjige.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\appsettings.Development.json
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\appsettings.json
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Knjige.exe
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Knjige.deps.json
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Knjige.runtimeconfig.json
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Knjige.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Knjige.pdb
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Neo4j.Driver.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Neo4jClient.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Scrutor.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\BookVerse\Neo4j\Knjige\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.csproj.AssemblyReference.cache
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfoInputs.cache
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.AssemblyInfo.cs
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.csproj.CoreCompileInputs.cache
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cs
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.MvcApplicationPartsAssemblyInfo.cache
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\staticwebassets.build.json
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\staticwebassets.development.json
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.Knjige.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.build.Knjige.props
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Knjige.props
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Knjige.props
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\scopedcss\bundle\Knjige.styles.css
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.csproj.CopyComplete
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.dll
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\refint\Knjige.dll
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.pdb
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\Knjige.genruntimeconfig.cache
+E:\BookVerse\Neo4j\Knjige\obj\Debug\net8.0\ref\Knjige.dll
